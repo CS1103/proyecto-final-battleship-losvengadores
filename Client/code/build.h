@@ -6,7 +6,8 @@
 #define CODE_BUILD_H
 
 #include "includes.h"
-
+#include <fstream>
+#include <sstream>
 using namespace std;
 
 class build {
@@ -14,7 +15,6 @@ class build {
 private:
     string token;
     fstream myfile;
-
 
 public:
     void Handshake();
