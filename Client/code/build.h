@@ -5,8 +5,7 @@
 #ifndef CODE_BUILD_H
 #define CODE_BUILD_H
 
-#include <iostream>
-#include <string>
+#include "includes.h"
 
 using namespace std;
 

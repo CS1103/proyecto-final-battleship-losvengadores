@@ -3,4 +3,4 @@ project(code)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(code main.cpp attack.cpp attack.h build.cpp build.h)
+add_executable(code main.cpp attack.cpp attack.h build.cpp build.h metodos_generales.cpp includes.h)

@@ -204,6 +204,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/code.dir/build.make CMakeFiles/code.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+metodos_generales.o: metodos_generales.cpp.o
+
+.PHONY : metodos_generales.o
+
+# target to build an object file
+metodos_generales.cpp.o:
+	$(MAKE) -f CMakeFiles/code.dir/build.make CMakeFiles/code.dir/metodos_generales.cpp.o
+.PHONY : metodos_generales.cpp.o
+
+metodos_generales.i: metodos_generales.cpp.i
+
+.PHONY : metodos_generales.i
+
+# target to preprocess a source file
+metodos_generales.cpp.i:
+	$(MAKE) -f CMakeFiles/code.dir/build.make CMakeFiles/code.dir/metodos_generales.cpp.i
+.PHONY : metodos_generales.cpp.i
+
+metodos_generales.s: metodos_generales.cpp.s
+
+.PHONY : metodos_generales.s
+
+# target to generate assembly for a file
+metodos_generales.cpp.s:
+	$(MAKE) -f CMakeFiles/code.dir/build.make CMakeFiles/code.dir/metodos_generales.cpp.s
+.PHONY : metodos_generales.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -222,6 +249,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... metodos_generales.o"
+	@echo "... metodos_generales.i"
+	@echo "... metodos_generales.s"
 .PHONY : help
 
 
