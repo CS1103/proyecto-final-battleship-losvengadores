@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/code.dir/main.cpp.o"
   "CMakeFiles/code.dir/attack.cpp.o"
   "CMakeFiles/code.dir/build.cpp.o"
+  "CMakeFiles/code.dir/metodos_generales.cpp.o"
   "code.pdb"
   "code"
 )

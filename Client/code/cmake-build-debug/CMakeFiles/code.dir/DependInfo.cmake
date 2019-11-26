@@ -7,6 +7,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/attack.cpp" "/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/CMakeFiles/code.dir/attack.cpp.o"
   "/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/build.cpp" "/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/CMakeFiles/code.dir/build.cpp.o"
   "/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/main.cpp" "/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/CMakeFiles/code.dir/main.cpp.o"
+  "/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/metodos_generales.cpp" "/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/CMakeFiles/code.dir/metodos_generales.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

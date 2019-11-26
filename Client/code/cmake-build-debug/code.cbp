@@ -94,7 +94,13 @@
 		<Unit filename="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/build.h">
 			<Option target="code"/>
 		</Unit>
+		<Unit filename="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/includes.h">
+			<Option target="code"/>
+		</Unit>
 		<Unit filename="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/main.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/metodos_generales.cpp">
 			<Option target="code"/>
 		</Unit>
 		<Unit filename="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/CMakeLists.txt">
