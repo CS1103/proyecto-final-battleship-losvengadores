@@ -14,6 +14,7 @@ class build {
 
 private:
     string token;
+    fstream myfile;
 
 
 public:
