@@ -82,6 +82,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/attack.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/attack.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/build.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/build.h">
+			<Option target="code"/>
+		</Unit>
 		<Unit filename="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/main.cpp">
 			<Option target="code"/>
 		</Unit>

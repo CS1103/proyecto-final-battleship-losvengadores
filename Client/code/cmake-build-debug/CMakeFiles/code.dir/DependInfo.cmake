@@ -4,6 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/attack.cpp" "/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/CMakeFiles/code.dir/attack.cpp.o"
+  "/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/build.cpp" "/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/CMakeFiles/code.dir/build.cpp.o"
   "/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/main.cpp" "/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/CMakeFiles/code.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

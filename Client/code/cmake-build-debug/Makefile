@@ -123,6 +123,60 @@ code/fast:
 	$(MAKE) -f CMakeFiles/code.dir/build.make CMakeFiles/code.dir/build
 .PHONY : code/fast
 
+attack.o: attack.cpp.o
+
+.PHONY : attack.o
+
+# target to build an object file
+attack.cpp.o:
+	$(MAKE) -f CMakeFiles/code.dir/build.make CMakeFiles/code.dir/attack.cpp.o
+.PHONY : attack.cpp.o
+
+attack.i: attack.cpp.i
+
+.PHONY : attack.i
+
+# target to preprocess a source file
+attack.cpp.i:
+	$(MAKE) -f CMakeFiles/code.dir/build.make CMakeFiles/code.dir/attack.cpp.i
+.PHONY : attack.cpp.i
+
+attack.s: attack.cpp.s
+
+.PHONY : attack.s
+
+# target to generate assembly for a file
+attack.cpp.s:
+	$(MAKE) -f CMakeFiles/code.dir/build.make CMakeFiles/code.dir/attack.cpp.s
+.PHONY : attack.cpp.s
+
+build.o: build.cpp.o
+
+.PHONY : build.o
+
+# target to build an object file
+build.cpp.o:
+	$(MAKE) -f CMakeFiles/code.dir/build.make CMakeFiles/code.dir/build.cpp.o
+.PHONY : build.cpp.o
+
+build.i: build.cpp.i
+
+.PHONY : build.i
+
+# target to preprocess a source file
+build.cpp.i:
+	$(MAKE) -f CMakeFiles/code.dir/build.make CMakeFiles/code.dir/build.cpp.i
+.PHONY : build.cpp.i
+
+build.s: build.cpp.s
+
+.PHONY : build.s
+
+# target to generate assembly for a file
+build.cpp.s:
+	$(MAKE) -f CMakeFiles/code.dir/build.make CMakeFiles/code.dir/build.cpp.s
+.PHONY : build.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +213,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... code"
+	@echo "... attack.o"
+	@echo "... attack.i"
+	@echo "... attack.s"
+	@echo "... build.o"
+	@echo "... build.i"
+	@echo "... build.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
