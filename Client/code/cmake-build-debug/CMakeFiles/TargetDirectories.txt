@@ -1,3 +1,3 @@
-/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/CMakeFiles/code.dir
+C:/POO2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/CMakeFiles/main.cpp.dir
+C:/POO2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/POO2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir

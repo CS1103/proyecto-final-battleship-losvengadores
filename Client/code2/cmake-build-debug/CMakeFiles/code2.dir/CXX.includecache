@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/build.cpp
+build.h
+C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/build.h
+
+C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/build.h
+includes.h
+C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/includes.h
+fstream
+-
+sstream
+-
+filesystem
+-
+
+C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/includes.h
+iostream
+-
+string
+-
+fstream
+-
+filesystem
+-
+
