@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/Client.cpp" "C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/cmake-build-debug/CMakeFiles/code2.dir/Client.cpp.obj"
   "C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/attack.cpp" "C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/cmake-build-debug/CMakeFiles/code2.dir/attack.cpp.obj"
-  "C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/build.cpp" "C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/cmake-build-debug/CMakeFiles/code2.dir/build.cpp.obj"
   "C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/main.cpp" "C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/cmake-build-debug/CMakeFiles/code2.dir/main.cpp.obj"
   "C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/metodosgenerales.cpp" "C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/cmake-build-debug/CMakeFiles/code2.dir/metodosgenerales.cpp.obj"
   )

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/code2.dir/main.cpp.obj"
-  "CMakeFiles/code2.dir/build.cpp.obj"
+  "CMakeFiles/code2.dir/Client.cpp.obj"
   "CMakeFiles/code2.dir/attack.cpp.obj"
   "CMakeFiles/code2.dir/metodosgenerales.cpp.obj"
   "code2.pdb"

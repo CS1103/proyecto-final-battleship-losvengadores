@@ -124,6 +124,33 @@ code2\fast:
 	$(MAKE) -f CMakeFiles\code2.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\code2.dir\build
 .PHONY : code2\fast
 
+Client.obj: Client.cpp.obj
+
+.PHONY : Client.obj
+
+# target to build an object file
+Client.cpp.obj:
+	$(MAKE) -f CMakeFiles\code2.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\code2.dir\Client.cpp.obj
+.PHONY : Client.cpp.obj
+
+Client.i: Client.cpp.i
+
+.PHONY : Client.i
+
+# target to preprocess a source file
+Client.cpp.i:
+	$(MAKE) -f CMakeFiles\code2.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\code2.dir\Client.cpp.i
+.PHONY : Client.cpp.i
+
+Client.s: Client.cpp.s
+
+.PHONY : Client.s
+
+# target to generate assembly for a file
+Client.cpp.s:
+	$(MAKE) -f CMakeFiles\code2.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\code2.dir\Client.cpp.s
+.PHONY : Client.cpp.s
+
 attack.obj: attack.cpp.obj
 
 .PHONY : attack.obj
@@ -150,33 +177,6 @@ attack.s: attack.cpp.s
 attack.cpp.s:
 	$(MAKE) -f CMakeFiles\code2.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\code2.dir\attack.cpp.s
 .PHONY : attack.cpp.s
-
-build.obj: build.cpp.obj
-
-.PHONY : build.obj
-
-# target to build an object file
-build.cpp.obj:
-	$(MAKE) -f CMakeFiles\code2.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\code2.dir\build.cpp.obj
-.PHONY : build.cpp.obj
-
-build.i: build.cpp.i
-
-.PHONY : build.i
-
-# target to preprocess a source file
-build.cpp.i:
-	$(MAKE) -f CMakeFiles\code2.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\code2.dir\build.cpp.i
-.PHONY : build.cpp.i
-
-build.s: build.cpp.s
-
-.PHONY : build.s
-
-# target to generate assembly for a file
-build.cpp.s:
-	$(MAKE) -f CMakeFiles\code2.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\code2.dir\build.cpp.s
-.PHONY : build.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -241,12 +241,12 @@ help:
 	@echo ... code2
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Client.obj
+	@echo ... Client.i
+	@echo ... Client.s
 	@echo ... attack.obj
 	@echo ... attack.i
 	@echo ... attack.s
-	@echo ... build.obj
-	@echo ... build.i
-	@echo ... build.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

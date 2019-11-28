@@ -77,23 +77,23 @@ CMakeFiles\code2.dir\main.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\code2.dir\main.cpp.s /c C:\POO2\proyecto-final-battleship-losvengadores\Client\code2\main.cpp
 <<
 
-CMakeFiles\code2.dir\build.cpp.obj: CMakeFiles\code2.dir\flags.make
-CMakeFiles\code2.dir\build.cpp.obj: ..\build.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\POO2\proyecto-final-battleship-losvengadores\Client\code2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/code2.dir/build.cpp.obj"
+CMakeFiles\code2.dir\Client.cpp.obj: CMakeFiles\code2.dir\flags.make
+CMakeFiles\code2.dir\Client.cpp.obj: ..\Client.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\POO2\proyecto-final-battleship-losvengadores\Client\code2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/code2.dir/Client.cpp.obj"
 	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\code2.dir\build.cpp.obj /FdCMakeFiles\code2.dir\ /FS -c C:\POO2\proyecto-final-battleship-losvengadores\Client\code2\build.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\code2.dir\Client.cpp.obj /FdCMakeFiles\code2.dir\ /FS -c C:\POO2\proyecto-final-battleship-losvengadores\Client\code2\Client.cpp
 <<
 
-CMakeFiles\code2.dir\build.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/code2.dir/build.cpp.i"
-	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe > CMakeFiles\code2.dir\build.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\POO2\proyecto-final-battleship-losvengadores\Client\code2\build.cpp
+CMakeFiles\code2.dir\Client.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/code2.dir/Client.cpp.i"
+	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe > CMakeFiles\code2.dir\Client.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\POO2\proyecto-final-battleship-losvengadores\Client\code2\Client.cpp
 <<
 
-CMakeFiles\code2.dir\build.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/code2.dir/build.cpp.s"
+CMakeFiles\code2.dir\Client.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/code2.dir/Client.cpp.s"
 	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\code2.dir\build.cpp.s /c C:\POO2\proyecto-final-battleship-losvengadores\Client\code2\build.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\code2.dir\Client.cpp.s /c C:\POO2\proyecto-final-battleship-losvengadores\Client\code2\Client.cpp
 <<
 
 CMakeFiles\code2.dir\attack.cpp.obj: CMakeFiles\code2.dir\flags.make
@@ -137,7 +137,7 @@ CMakeFiles\code2.dir\metodosgenerales.cpp.s: cmake_force
 # Object files for target code2
 code2_OBJECTS = \
 "CMakeFiles\code2.dir\main.cpp.obj" \
-"CMakeFiles\code2.dir\build.cpp.obj" \
+"CMakeFiles\code2.dir\Client.cpp.obj" \
 "CMakeFiles\code2.dir\attack.cpp.obj" \
 "CMakeFiles\code2.dir\metodosgenerales.cpp.obj"
 
@@ -145,7 +145,7 @@ code2_OBJECTS = \
 code2_EXTERNAL_OBJECTS =
 
 code2.exe: CMakeFiles\code2.dir\main.cpp.obj
-code2.exe: CMakeFiles\code2.dir\build.cpp.obj
+code2.exe: CMakeFiles\code2.dir\Client.cpp.obj
 code2.exe: CMakeFiles\code2.dir\attack.cpp.obj
 code2.exe: CMakeFiles\code2.dir\metodosgenerales.cpp.obj
 code2.exe: CMakeFiles\code2.dir\build.make

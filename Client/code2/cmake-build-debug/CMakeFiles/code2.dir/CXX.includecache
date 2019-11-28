@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/build.cpp
-build.h
-C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/build.h
+C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/Client.cpp
+Client.h
+C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/Client.h
 
-C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/build.h
+C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/Client.h
 includes.h
 C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/includes.h
 fstream
@@ -18,6 +18,8 @@ fstream
 sstream
 -
 filesystem
+-
+queue
 -
 
 C:/POO2/proyecto-final-battleship-losvengadores/Client/code2/includes.h

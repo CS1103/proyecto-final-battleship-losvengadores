@@ -1,11 +1,12 @@
 #include <iostream>
-#include "build.h"
+#include "Client.h"
 #include <fstream>
 #include <sstream>
 int main() {
-    build p;
-    p.Handshake();
-
-    std::cout << "Hello, World!" << std::endl;
+    Client p;
+    //p.Save();
+    //p.Load();
+    p.load2();
+    std::cout << "\nHello, World!" << std::endl;
     return 0;
 }
