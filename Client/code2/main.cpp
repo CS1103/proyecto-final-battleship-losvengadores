@@ -6,7 +6,7 @@ int main() {
     Client p;
     //p.Save();
     //p.Load();
-    p.load2();
+    p.load();
     std::cout << "\nHello, World!" << std::endl;
     return 0;
 }

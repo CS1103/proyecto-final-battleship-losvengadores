@@ -11,50 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c060fe40-6d4c-4dc7-81a7-2c9d01cda81a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Client/code2/Client.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/code2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/code2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/code2/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/code2/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/code2/build.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/code2/build.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/code2/Client.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/CMakeFiles/code2.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/CMakeFiles/code2.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/CMakeFiles/code2.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/CMakeFiles/code2.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/CMakeFiles/code2.dir/build.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/CMakeFiles/code2.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/CMakeFiles/code2.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/CMakeFiles/code2.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/CMakeFiles/code2.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/CMakeFiles/code2.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/CMakeFiles/code2.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/CMakeFiles/code2.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/CMakeFiles/code2.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/CMakeFiles/code2.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/CMakeFiles/code2.dir/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/CMakeFiles/code2.dir/metodosgenerales.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/CMakeFiles/code2.dir/metodosgenerales.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/CMakeFiles/code2.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/CMakeFiles/code2.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/CMakeFiles/code2.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/CMakeFiles/code2.dir/vc140.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/code2.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/code2.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/code2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/code2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/code2.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/code2.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/code2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/code2/cmake-build-debug/code2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/code2/includes.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/code2/includes.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/code2/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/code2/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/in/Primero.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Server.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.2/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.2/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.2/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.2/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.2/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.2/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.2/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.2/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/battleship_server.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/battleship_server.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/battleship_server.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/battleship_server.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/battleship_server.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/battleship_server.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-    </list>
+    <list default="true" id="c060fe40-6d4c-4dc7-81a7-2c9d01cda81a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +39,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/main.cpp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-102">
+                <state relative-caret-position="-48">
                   <folding>
                     <element signature="e#0#19#0" expanded="true" />
                   </folding>
@@ -309,7 +266,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
+        <state relative-caret-position="-48">
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
