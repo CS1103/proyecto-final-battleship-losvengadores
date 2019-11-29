@@ -1,6 +1,12 @@
-#include <iostream>
+#include "build.h"
+#include "ship.h"
+
+using std::string; using std::vector;
+
+
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+
+
     return 0;
 }

@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/POO2/proyecto-final-battleship-losvengadores/Client/code/attack.cpp" "C:/POO2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/CMakeFiles/main.cpp.dir/attack.cpp.obj"
-  "C:/POO2/proyecto-final-battleship-losvengadores/Client/code/build.cpp" "C:/POO2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/CMakeFiles/main.cpp.dir/build.cpp.obj"
-  "C:/POO2/proyecto-final-battleship-losvengadores/Client/code/metodos_generales.cpp" "C:/POO2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/CMakeFiles/main.cpp.dir/metodos_generales.cpp.obj"
+  "/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/attack.cpp" "/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/CMakeFiles/main.cpp.dir/attack.cpp.o"
+  "/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/build.cpp" "/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/CMakeFiles/main.cpp.dir/build.cpp.o"
+  "/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/metodos_generales.cpp" "/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/CMakeFiles/main.cpp.dir/metodos_generales.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "MSVC")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

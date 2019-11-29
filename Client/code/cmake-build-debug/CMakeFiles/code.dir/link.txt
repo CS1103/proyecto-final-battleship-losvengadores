@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/code.dir/main.cpp.o CMakeFiles/code.dir/build.cpp.o CMakeFiles/code.dir/metodos_generales.cpp.o CMakeFiles/code.dir/functions.cpp.o  -o code 

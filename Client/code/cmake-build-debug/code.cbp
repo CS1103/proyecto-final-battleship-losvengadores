@@ -8,102 +8,107 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug"/>
+				<Option working_dir="/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug"/>
+				<Option working_dir="/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="code">
-				<Option output="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/code" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug"/>
+				<Option output="/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/code" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
 					<Add directory="/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 code"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 code"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="code/fast">
-				<Option output="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/code" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug"/>
+				<Option output="/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/code" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
 					<Add directory="/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 code/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 code/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/attack.cpp">
+		<Unit filename="/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/build.cpp">
 			<Option target="code"/>
 		</Unit>
-		<Unit filename="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/attack.h">
+		<Unit filename="/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/build.h">
 			<Option target="code"/>
 		</Unit>
-		<Unit filename="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/build.cpp">
+		<Unit filename="/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/functions.cpp">
 			<Option target="code"/>
 		</Unit>
-		<Unit filename="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/build.h">
+		<Unit filename="/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/functions.h">
 			<Option target="code"/>
 		</Unit>
-		<Unit filename="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/includes.h">
+		<Unit filename="/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/includes.h">
 			<Option target="code"/>
 		</Unit>
-		<Unit filename="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/main.cpp">
+		<Unit filename="/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/main.cpp">
 			<Option target="code"/>
 		</Unit>
-		<Unit filename="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/metodos_generales.cpp">
+		<Unit filename="/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/metodos_generales.cpp">
 			<Option target="code"/>
 		</Unit>
-		<Unit filename="/Users/maorroizmangheiler/proyecto-final-battleship-losvengadores/Client/code/CMakeLists.txt">
+		<Unit filename="/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/ship.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

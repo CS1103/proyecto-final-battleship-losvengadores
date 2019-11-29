@@ -1,4 +1,4 @@
-"C:\Clion\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\POO2\proyecto-final-battleship-losvengadores\Client\code
+/opt/clion-2019.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/POO2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug
+-- Build files have been written to: /home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/cmake-build-debug

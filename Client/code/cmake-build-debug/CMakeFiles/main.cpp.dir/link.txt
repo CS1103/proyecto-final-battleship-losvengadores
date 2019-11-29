@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/main.cpp.dir/attack.cpp.o CMakeFiles/main.cpp.dir/build.cpp.o CMakeFiles/main.cpp.dir/metodos_generales.cpp.o  -o main.cpp 

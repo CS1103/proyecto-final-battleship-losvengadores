@@ -1,11 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/battleship_server.dir/main.cpp.obj"
-  "CMakeFiles/battleship_server.dir/player.cpp.obj"
-  "CMakeFiles/battleship_server.dir/controller.cpp.obj"
+  "CMakeFiles/battleship_server.dir/main.cpp.o"
+  "CMakeFiles/battleship_server.dir/player.cpp.o"
+  "CMakeFiles/battleship_server.dir/controller.cpp.o"
   "battleship_server.pdb"
-  "battleship_server.exe"
-  "battleship_server.exe.manifest"
-  "battleship_server.lib"
+  "battleship_server"
 )
 
 # Per-language clean rules from dependency scanning.

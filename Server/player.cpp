@@ -40,7 +40,7 @@ bool are_intersected(const rectangle_t& r1, const rectangle_t& r2)
 }
 
 dimension_t calculate_dimension(const model_t& model, const orientation_t& orientation)
-{
+{/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Server
     auto dim = predefined_fleet[model].second;
     return orientation == orientation_t::horizontal ?
         dimension_t{ dim.w, dim.h } :
