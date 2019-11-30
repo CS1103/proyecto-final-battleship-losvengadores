@@ -8,9 +8,8 @@ void build::Handshake() {
     myfile.open ("Primero.in",ios::out);
     myfile<<"HANDSHAKE=LosVengadores";
     myfile.close();
-
-    //deleteHanshake;
-
+    auto it = filesystem::directory_iterator("first");
+    filesystem::remove(*it);
 }
 
 void build::ReadFileForToken() {

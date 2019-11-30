@@ -1,7 +1,3 @@
-//
-// Created by rudri on 11/15/2019.
-//
-
 #include "player.h"
 
 std::map<model_t, model_size_t> predefined_fleet

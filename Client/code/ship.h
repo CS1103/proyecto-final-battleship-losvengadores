@@ -4,12 +4,11 @@
 #include "includes.h"
 
 struct ship{
-    string tipo;
-    pair<char,int> pos;
-    ship(string tipo){
-        this->tipo = tipo;
-    }
-    ship(){};
+    string model;
+    pair<char,int> location;
+    char orientation;
 };
+
+
 
 #endif //CODE_SHIP_H

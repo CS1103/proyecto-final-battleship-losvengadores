@@ -6,18 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/attack.cpp
-attack.h
-/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/attack.h
-
-/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/attack.h
-includes.h
-/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/includes.h
-
-/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/build.cpp
-build.h
-/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/build.h
-
 /home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/build.h
 includes.h
 /home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/includes.h
@@ -28,6 +16,14 @@ sstream
 filesystem
 -
 
+/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/functions.cpp
+functions.h
+/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/functions.h
+
+/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/functions.h
+ship.h
+/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/ship.h
+
 /home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/includes.h
 iostream
 -
@@ -37,12 +33,22 @@ fstream
 -
 filesystem
 -
-
-/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/main.cpp
-iostream
+vector
+-
+algorithm
+-
+string
 -
 
-/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/metodos_generales.cpp
+/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/main.cpp
+build.h
+/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/build.h
+ship.h
+/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/ship.h
+functions.h
+/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/functions.h
+
+/home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/ship.h
 includes.h
 /home/eduardo/Desktop/Utec/Poo2/proyecto-final-battleship-losvengadores/Client/code/includes.h
 
